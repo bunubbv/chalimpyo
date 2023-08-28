@@ -1,5 +1,5 @@
 ## Chalimpyo
-**Chalimpyo**는 제물포고등학교의 식단 정보를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net) 스킨입니다. 코드 수정 시 타 학교도 사용 가능합니다.
+**Chalimpyo**는 제물포고등학교의 식단 정보를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net) 스킨입니다.
 
 Windows 10 이상 및 [나이스 교육정보 개방 포털 Open API](https://open.neis.go.kr/portal/mainPage.do) 키가 필요합니다.
 
