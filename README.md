@@ -1,17 +1,13 @@
 ## Chalimpyo
-**Chalimpyo**는 제물포고등학교의 당일 식단표를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net/) 스킨입니다. 스킨의 위치는 디스플레이 오른쪽 하단에 고정되어 있으며, 네트워크 문제 등으로 로드 실패 시 다시 로드하는 등의 기능이 있습니다.
+**Chalimpyo**는 제물포고등학교의 식단 정보를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net) 스킨입니다. 코드 수정 시 타 학교도 사용 가능합니다.
 
-Windows 10 이상에서 작동하며, [나이스 교육정보 개방 포털 Open API](https://open.neis.go.kr/portal/mainPage.do) 인증 키가 필요합니다.
-
-## 기능
- * 식단표 로드 실패 시 다시 로드
- * 자동 업데이트 지원
+Windows 10 이상 및 [나이스 교육정보 개방 포털 Open API](https://open.neis.go.kr/portal/mainPage.do) 키가 필요합니다.
 
 ## 이용 범위
 Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](/LICENSE)를 참조하세요.
 
 ## 업데이트
- * 이전 업데이트 내역은 기록이 없어 기록하지 않았습니다.
+ * 과거 내역은 별도로 기록하지 않았습니다.
  * 2023-05-08 1.6.0
      * 자동 업데이트 기능 추가, 정규표현식 버그 수정
  * 2023-05-11 1.6.1
@@ -32,6 +28,16 @@ Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니
      * 스킨 로드 시 레이아웃 및 설정 자동 적용
      * 오픈 소스로 스킨 배포
      * 정규표현식 버그 수정
+  * 2023-08-28 2.1.0
+     * 코드 리팩토링, 최적화 진행
+         * Windows 10 1909 이전 버전에서 업데이트 시 오류가 발생하는 문제 해결
+         * 업데이트를 Lua가 아닌 내부에서 처리하게 변경
+         * 불필요한 함수, 변수 정리 및 이름 변경
+         * 그 외 스킨 구조 개선, 최적화 진행
+     * 가독성을 위해 고정폭 폰트(Pretendard GOV)로 변경
+     * 말풍선을 통해 버전 정보 표시
+     * 정규표현식 버그 수정
+     * 깃허브 링크 변경
 
 ## 기타
  * Rainmeter는 HiDPI를 지원하지 않아 일부 환경에서 설치 후 스킨이 흐릿하게 나옵니다. 이를 해결하려면 Rainmeter가 설치된 폴더(Program Files/Rainmeter)에서 Rainmeter.exe 우클릭 후 차례대로 "호환성", "높은 DPI 설정 변경"을 누른 뒤, "높은 DPI 조정 동작을 재정의합니다."를 활성화하세요.
