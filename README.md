@@ -3,7 +3,7 @@
 
 Windows 10 이상 및 [나이스 교육정보 개방 포털 Open API](https://open.neis.go.kr/portal/mainPage.do) 키가 필요합니다.
 
-## 이용 범위
+## 라이선스
 Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](/LICENSE)를 참조하세요.
 
 ## 업데이트
