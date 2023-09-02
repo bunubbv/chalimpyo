@@ -43,6 +43,9 @@ Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니
     * 업데이트 코드를 분리하여 스킨 안정성 향상
 * 2023-08-30 2.1.2
     * 정규표현식 버그 수정
+* 2023-09-02 2.1.3
+    * 업데이트 실패 시 관련 말풍선이 안 뜨는 버그 수정
+    * 인터넷 연결 실패 후 60초 뒤 자동으로 다시 로드
 
 ## 그 외
 * Rainmeter는 HiDPI를 지원하지 않아 시인성 문제가 발생할 수 있습니다. 이를 해결하려면 Rainmeter 폴더(Program Files/Rainmeter)에서 "Rainmeter.exe"를 우클릭한 후, "속성", "호환성", "높은 DPI 설정 변경"에서 "높은 DPI 조정 동작을 재정의합니다."를 활성화하세요.
