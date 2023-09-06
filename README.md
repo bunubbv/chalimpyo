@@ -1,6 +1,13 @@
 ## Chalimpyo
 **Chalimpyo**는 제물포고등학교의 식단 정보를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net) 스킨입니다.
 
+## 실행 모습
+![1](https://github.com/bunubbv/chalimpyo/assets/75381985/53e265f2-83ce-4245-a4ac-99029c0bd376)
+스킨이 로드되면 당일 식단표 정보가 표시됩니다.
+
+![2](https://github.com/bunubbv/chalimpyo/assets/75381985/8684cfad-846f-4ecd-9e8c-9edd4e92a0b1)
+마우스를 올리면 스킨의 최신 버전 여부를 확인할 수 있습니다.
+
 ## 라이선스
 Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](/LICENSE)를 참조하세요.
 
