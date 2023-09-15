@@ -17,6 +17,8 @@
 ## 라이선스
 Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](/LICENSE)를 참조하세요.
 
+Pretendard GOV 폰트 라이선스의 경우 [이곳에서](https://github.com/orioncactus/pretendard/blob/main/LICENSE) 확인 가능합니다.
+
 ## 업데이트
 * 과거 내역은 별도로 기록하지 않았습니다.
 * 2023-05-08 1.6.0
