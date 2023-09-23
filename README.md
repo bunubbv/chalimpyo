@@ -1,7 +1,6 @@
 ## Chalimpyo
 * **[안내] 식단표 조회가 불가능한 현상은 스킨의 문제가 아닙니다.**
     * **NEIS 4세대 개편 이후 학교 측에서 확정한 식단표 정보만 조회가 가능하게 변경되었습니다.** 타 학교의 경우 정상적으로 식단표 조회가 가능하며 식단표 공개를 거듭 요청했으나 여전히 문제가 해결되지 않고 있습니다.
-    * 또한 NEIS 역시 오류가 반복되는 상황이기에 당분간 스킨의 정상적인 동작은 어려울 것으로 보입니다. 제물포고등학교 학생회 인스타그램 혹은 교실 내 게시된 식단표 정보를 확인하시기 바랍니다.
 
 **Chalimpyo**는 제물포고등학교의 식단 정보를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net) 스킨입니다.
 
@@ -17,7 +16,7 @@
 ## 라이선스
 Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](/LICENSE)를 참조하세요.
 
-Pretendard GOV 폰트 라이선스의 경우 [이곳에서](https://github.com/orioncactus/pretendard/blob/main/LICENSE) 확인 가능합니다.
+Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LICENSE](https://github.com/orioncactus/pretendard/blob/main/LICENSE)를 확인하세요.
 
 ## 업데이트
 * 과거 내역은 별도로 기록하지 않았습니다.
@@ -61,6 +60,8 @@ Pretendard GOV 폰트 라이선스의 경우 [이곳에서](https://github.com/o
 * 2023-09-02 2.1.3
     * 업데이트 정보 확인 실패 시 말풍선이 안 뜨는 버그 수정
     * 인터넷 연결 실패 후 60초 뒤 자동으로 다시 로드
+* 2023-09-24 2.1.4
+    * 함수 및 변수명 변경
 
 ## 그 외
 * Rainmeter는 HiDPI를 지원하지 않아 시인성 문제가 발생할 수 있습니다. 이를 해결하려면 Rainmeter 폴더(Program Files/Rainmeter)에서 "Rainmeter.exe"를 우클릭한 후, "속성", "호환성", "높은 DPI 설정 변경"에서 "높은 DPI 조정 동작을 재정의합니다."를 활성화하세요.
