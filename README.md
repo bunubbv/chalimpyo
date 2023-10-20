@@ -62,6 +62,10 @@ Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LIC
     * 인터넷 연결 실패 후 60초 뒤 자동으로 다시 로드
 * 2023-09-24 2.1.4
     * 함수 및 변수명 변경
+* 2023-10-20 2.1.5
+    * 폰트 변경 (Pretendard GOV > Pretendard opentype 적용)
+    * 급식 정보 로드 실패 후 다시 로드되지 않던 문제 해결
+    * 일부 정규표현식 수정
 
 ## 그 외
 * Rainmeter는 HiDPI를 지원하지 않아 시인성 문제가 발생할 수 있습니다. 이를 해결하려면 Rainmeter 폴더(Program Files/Rainmeter)에서 "Rainmeter.exe"를 우클릭한 후, "속성", "호환성", "높은 DPI 설정 변경"에서 "높은 DPI 조정 동작을 재정의합니다."를 활성화하세요.
