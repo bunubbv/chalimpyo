@@ -1,7 +1,5 @@
 ## Chalimpyo
-* **[안내] 식단표 조회가 불가능한 현상은 스킨의 문제가 아닙니다.**
-    * **NEIS 4세대 개편 이후 학교 측에서 확정한 식단표 정보만 조회가 가능하게 변경되었습니다.** 타 학교의 경우 정상적으로 식단표 조회가 가능하며 식단표 공개를 거듭 요청했으나 여전히 문제가 해결되지 않고 있습니다.
-
+* **[안내] 식단표 조회가 불가능한 현상은 스킨의 문제가 아닙니다.** NEIS 4세대 개편 이후 학교에서 확정한 식단표 정보만 조회가 가능하게 변경되었습니다.
 **Chalimpyo**는 제물포고등학교의 식단 정보를 바탕 화면에 표시하는 [Rainmeter](https://www.rainmeter.net) 스킨입니다.
 
 ## 실행 모습
@@ -16,7 +14,7 @@
 ## 라이선스
 Chalimpyo는 GNU Lesser General Public License v2.1 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](/LICENSE)를 참조하세요.
 
-Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LICENSE](https://github.com/orioncactus/pretendard/blob/main/LICENSE)를 확인하세요.
+글꼴의 라이선스 정보는 Pretendard Github 페이지의 [LICENSE](https://github.com/orioncactus/pretendard/blob/main/LICENSE)를 확인하세요.
 
 ## 업데이트
 * 과거 내역은 별도로 기록하지 않았습니다.
@@ -26,7 +24,7 @@ Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LIC
     * 업데이트 과정 중 생성되는 다운로드 폴더 삭제
 * 2023-05-12 1.6.2
     * 업데이트 스크립트를 인라인으로 실행하여 속도 향상, 업데이트 이후 무한 루프 발생하는 버그 수정
-    * 폰트 기본 탑재 및 설치 후 스킨이 자동으로 로드되지 않는 버그 수정
+    * 글꼴 기본 탑재 및 설치 후 스킨이 자동으로 로드되지 않는 버그 수정
 * 2023-05-16 1.6.3
     * 정규표현식 버그 수정
 * 2023-08-13 2.0.0
@@ -36,7 +34,7 @@ Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LIC
         * 파일 무결성 검증 진행
         * 호환성 문제로 요구 버전 윈도우 10으로 상향
         * 오류 방지를 위해 다시 시작 시 업데이트 반영
-    * 스킨 디자인 및 폰트 변경
+    * 스킨 디자인 및 글꼴 변경
     * 스킨 로드 시 레이아웃 및 설정 자동 적용
     * 오픈 소스로 스킨 배포
     * 정규표현식 버그 수정
@@ -46,7 +44,7 @@ Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LIC
         * 업데이트를 Lua가 아닌 내부에서 처리하게 변경
         * 불필요한 함수, 변수 정리 및 이름 변경
         * 그 외 스킨 구조 개선, 최적화 진행
-    * 가독성을 위해 고정폭 폰트(Pretendard GOV)로 변경
+    * 가독성을 위해 고정폭 글꼴(Pretendard GOV)로 변경
     * 말풍선을 통해 버전 정보 표시
     * 정규표현식 버그 수정
     * 깃허브 링크 변경
@@ -63,7 +61,7 @@ Pretendard GOV 폰트 라이선스의 경우 Pretendard Github 페이지의 [LIC
 * 2023-09-24 2.1.4
     * 함수 및 변수명 변경
 * 2023-10-20 2.1.5
-    * 폰트 변경 (Pretendard GOV > Pretendard opentype 적용)
+    * 글꼴 변경 (Pretendard GOV > Pretendard opentype 적용)
     * 급식 정보 로드 실패 후 다시 로드되지 않던 문제 해결
     * 일부 정규표현식 수정
 
